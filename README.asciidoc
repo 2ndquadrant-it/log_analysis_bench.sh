@@ -1,0 +1,22 @@
+= log_analysis_bench.sh
+
+A very simple script to measure time and memory consumption of PostgreSQL LOG analysis tools.
+
+This tools is in a very early development stage.
+
+Feel free to contribute!
+
+== Usage
+
+----
+./log_analysis_bench.sh
+----
+
+== Credits
+
+Authors::
+    Carlo Ascani <carlo.ascani@2ndQuadrant.it>
+License::
+    GPL v3 or later
+Copyright::
+    (C) 2012 2ndQuadrant Italia <info@2ndquadrant.it>
