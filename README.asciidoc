@@ -6,6 +6,11 @@ This tools is in a very early development stage.
 
 Feel free to contribute!
 
+== Configuration
+
+You can configure both commands to benchmark and the LOG files
+directly within the script, in the "header" section.
+
 == Usage
 
 ----
